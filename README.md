@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/KaustabRoy/KaustabRoy/blob/main/animgalaxy.gif)
 <h1 align="center">Hi 👋, I'm Kaustab Roy</h1>
 <h3 align="center">A passionate software developer from West Bengal, India</h3>
 
