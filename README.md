@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Python Backend-Web & Software Development**
 
-- 👨‍💻 All of my projects are available at [kaustabroy.in:5000/projects](http://kaustabroy.in:5000/projects)
+- 👨‍💻 All of my projects are available at [projects](http://kaustabroy.in:5000/projects)
 
 - 📫 How to reach me **kaustab.roy@solution4u.com**
 
