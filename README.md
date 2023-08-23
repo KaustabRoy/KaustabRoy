@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CodSoft Python Programming Internship**
 
-- 🌱 I’m currently learning **DRS(Django REST Framework), Kivy Mobile Application**
+- 🌱 I’m currently learning **DRS(Django REST Framework), Kivy App Development**
 
 - 👯 I’m looking to collaborate on **Python Backend-Web & Software Development**
 
