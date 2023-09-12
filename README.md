@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustabroy&label=Profile%20views&color=0e75b6&style=flat" alt="kaustabroy" /> </p>
 
-- 🔭 I’m currently working on **CodSoft Python Programming Internship**
+- 🔭 I’m currently working on **My personal portfolio website using Django**
 
 - 🌱 I’m currently learning **DRS(Django REST Framework), Kivy Mobile App Development**
 
