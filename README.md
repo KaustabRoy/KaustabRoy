@@ -1,12 +1,12 @@
 ![logo](https://github.com/KaustabRoy/KaustabRoy/blob/main/animgalaxy.gif)
 <h1 align="center">Hi 👋, I'm Kaustab Roy</h1>
-<h3 align="center">A passionate software developer from West Bengal, India</h3>
+<h3 align="center">An aspiring backend developer from West Bengal, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustabroy&label=Profile%20views&color=0e75b6&style=flat" alt="kaustabroy" /> </p>
 
-- 🔭 I’m currently working on **My personal portfolio website using Django**
+- 🔭 I’m currently working on **Blog Website using Django**
 
-- 🌱 I’m currently learning **DRS(Django REST Framework), Kivy Mobile App Development**
+- 🌱 I’m currently learning **DRS(Django REST Framework), FastAPI**
 
 - 👯 I’m looking to collaborate on **Python Backend-Web & Software Development**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kaustab.roy@solution4u.com**
 
-- 📄 Know about my experiences [my_resume](https://drive.google.com/file/d/1XP-792R5li-PnXDE6Nj2GI33OmqPv1Cm/view?usp=sharing)
+- 📄 Know about my experiences [my_resume](http://kaustabroy.in:5000/uploads/resume/Kaustab_Roy_resume_backend_developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
